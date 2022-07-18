@@ -1,5 +1,8 @@
-### Hi there 👋
+### Welcome ladies and gentlemans
 
+- 🌱 I’m currently learning programming logic.
+- 📫 How to reach me: marlonstnlima@gmail.com
+- 😄 Pronouns: He/him
 <!--
 **marlonstn/marlonstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
