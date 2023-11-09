@@ -1,6 +1,6 @@
 ### Welcome ladies and gentlemans
 
-- 🌱 I’m currently learning programming logic.
+- 🌱 I’m currently.
 - 📫 How to reach me: marlonstnlima@gmail.com
 - 😄 Pronouns: He/him
 
